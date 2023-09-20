@@ -1,3 +1,7 @@
+//Caela Jane Gilbao: "Failure is a stepping stone to success."
+//Mae Ela Grace Alteran: "Life's lessons are our greatest teachers."
+//John Marty Arendain: "Time is Gold."
+
 import 'package:flutter/material.dart';
 
 void main() {
